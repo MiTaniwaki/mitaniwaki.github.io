@@ -225,6 +225,21 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /news/:name/
+
+# # (optional) nice defaults for news posts
+# defaults:
+#   - scope:
+#       path: ""
+#       type: news
+#     values:
+#       layout: post
+#       author_profile: false
+#       read_time: false
+#       share: false
+#       comments: false
 
 
 # These settings control how pages and collections are included in the site

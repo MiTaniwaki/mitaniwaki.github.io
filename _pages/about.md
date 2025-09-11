@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include news.html %}
 
 Welcome! My name is **Michiki Taniwaki**. -> [Japanese version here (日本語はこちら)](/about-ja/)
 

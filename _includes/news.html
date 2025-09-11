@@ -1,0 +1,15 @@
+<div class="news">
+  <h2>News</h2>
+  <ul class="clean-list">
+    {% assign items = site.news | sort: "date" | reverse %}
+    {% for item in items limit: 5 %}
+      <li>
+        <span class="post-meta">{{ item.date | date: "%b %d, %Y" }}</span>
+        <br/>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {% if item.excerpt %}<div class="archive__item-excerpt">{{ item.excerpt }}</div>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  <p><a href="{{ '/news/' | relative_url }}">All news →</a></p>
+</div>
