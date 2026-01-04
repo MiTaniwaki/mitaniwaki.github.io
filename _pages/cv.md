@@ -21,6 +21,19 @@ Education
 
   Bachelor Thesis: Analysis of Magnetization Reversal Process of Non-Oriented Electrical Steel by Extended Landau Free Energy Model
 
+Awards & Honors
+======
+Poster Presentation Award:
+------
+- **49th Annual Conference of the Magnetics Society of Japan, Sep 17, 2025 (Poster: “Design of an Order Parameter for Skyrmion Lattice Systems Using Persistent Homology”).
+
+Scholarship:
+------
+- **The Asahi Glass Foundation,	2024-2025
+- **Japan Student Services Organization,	2019-2025
+- **Institutional Scholarships offered by Tokyo University of Science,	2024
+- **JGC-S(Nikki-Saneyoshi) Scholarship Foundation, 2022-2023
+- **TCS Scholarship Foundation, 2022-2023
 
 Work experience
 ======
@@ -61,15 +74,3 @@ Service and leadership
 **Reconstruction Activities in Response to the Great East Japan Earthquake, Dec. 2012**
 
 I engaged in the volunteer activities of a football club that hosted elementary school students from regions impacted by the Great East Japan Earthquake. I contributed to the reconstruction efforts by coordinating football matches and arranging homestay accommodations for the students.
-
-Scholarship
-======
-The Asahi Glass Foundation,	2024-2025
-
-Japan Student Services Organization,	2019-2025
-
-Institutional Scholarships offered by Tokyo University of Science,	2024
-
-JGC-S(Nikki-Saneyoshi) Scholarship Foundation, 2022-2023
-
-TCS Scholarship Foundation, 2022-2023
