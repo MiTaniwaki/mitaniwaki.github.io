@@ -30,8 +30,8 @@ Poster Presentation Award:
 Scholarship:
 ------
 - **The Asahi Glass Foundation,	2024-2025
-- **Japan Student Services Organization,	2019-2025
-- **Institutional Scholarships offered by Tokyo University of Science,	2024
+- **Japan Student Services Organization, 2019-2025
+- **Institutional Scholarships offered by Tokyo University of Science, 2024
 - **JGC-S(Nikki-Saneyoshi) Scholarship Foundation, 2022-2023
 - **TCS Scholarship Foundation, 2022-2023
 
