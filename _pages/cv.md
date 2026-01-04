@@ -25,15 +25,15 @@ Awards & Honors
 ======
 Poster Presentation Award:
 ------
-- **49th Annual Conference of the Magnetics Society of Japan, Sep 17, 2025 (Poster: “Design of an Order Parameter for Skyrmion Lattice Systems Using Persistent Homology”).
+- 49th Annual Conference of the Magnetics Society of Japan, Sep 17, 2025 (Poster: “Design of an Order Parameter for Skyrmion Lattice Systems Using Persistent Homology”).
 
 Scholarship:
 ------
-- **The Asahi Glass Foundation,	2024-2025
-- **Japan Student Services Organization, 2019-2025
-- **Institutional Scholarships offered by Tokyo University of Science, 2024
-- **JGC-S(Nikki-Saneyoshi) Scholarship Foundation, 2022-2023
-- **TCS Scholarship Foundation, 2022-2023
+- The Asahi Glass Foundation,	2024-2025
+- Japan Student Services Organization, 2019-2025
+- Institutional Scholarships offered by Tokyo University of Science, 2024
+- JGC-S(Nikki-Saneyoshi) Scholarship Foundation, 2022-2023
+- TCS Scholarship Foundation, 2022-2023
 
 Work experience
 ======
