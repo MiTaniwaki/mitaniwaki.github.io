@@ -37,13 +37,21 @@ Research experience
 Publications
 ======
 [1] M. Taniwaki, T. B. Winkler, J. Rothörl et al., APL Mach. Learn. 4, 026111 (2026).
+
 [2] K. Masuzawa, A. L. Foggiatto, S. Kunii, R. Nagaoka, M. Taniwaki et al., Sci. Rep. 16, 12889 (2026).
+
 [3] Y. Machida, M. Taniwaki, and M. Kotsugi, AIP Adv. 16, 025246 (2026).
+
 [4] M. Taniwaki, R. Nagaoka, K. Masuzawa et al., Sci. Rep. 15, 23758 (2025).
+
 [5] R. Nagaoka, K. Masuzawa, M. Taniwaki et al., IEEE Trans. Magn. 60, 4000305 (2024).
+
 [6] A. L. Foggiatto, R. Nagaoka, M. Taniwaki et al., IEEE Trans. Magn. 60, 7001305 (2024).
+
 [7] A. L. Foggiatto, R. Nagaoka, M. Taniwaki et al., in Proc. INTERMAG Short Papers, pp. 1–2 (2024).
+
 [8] A. L. Foggiatto, Y. Mizutori, T. Yamazaki, S. Sato, K. Masuzawa, R. Nagaoka, M. Taniwaki et al., IEEE Trans. Magn. 59, 2501604 (2023).
+
 [9] M. Taniwaki, A. L. Foggiatto, C. Mitsumata et al., in Proc. INTERMAG Short Papers, pp. 1–2 (2023).
 
 Awards & Honors
