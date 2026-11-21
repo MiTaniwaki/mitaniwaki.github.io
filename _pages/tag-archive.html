@@ -5,13 +5,10 @@ title: "Posts by Tags"
 author_profile: true
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+  <h2 id="{{ tag[0] | slugify }}" class="archive__subtitle">{{ tag[0] }}</h2>
+  {% for post in tag[1] %}
+    {% include archive-item.html item=post %}
   {% endfor %}
 {% endfor %}

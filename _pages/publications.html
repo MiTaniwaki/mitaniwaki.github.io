@@ -3,43 +3,17 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publication/2023-05-15-taniwaki-intermag-landau
+  - /publication/2023-11-01-foggiatto-magnetostriction
+  - /publication/2024-05-01-foggiatto-intermag-short
+  - /publication/2024-09-01-foggiatto-tda-excessloss
+  - /publication/2024-09-01-nagaoka-tda-coercivity
+  - /publication/2024-11-03-taniwaki-exgl-energy-loss
+  - /publication/2025-04-22-taniwaki-ph-skyrmion
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-  {% if site.author.researchgate %} and
-  <a href="{{site.author.researchgate}}">ResearchGate</a>
-  {% endif %}.
-</div>
-{% elsif site.author.researchgate %}
-<div class="wordwrap">
-  You can also find my articles on
-  <a href="{{site.author.researchgate}}">ResearchGate</a>.
-</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<p>
+  My publication list is maintained on
+  <a href="{{ site.author.researchgate }}">ResearchGate</a>.
+</p>

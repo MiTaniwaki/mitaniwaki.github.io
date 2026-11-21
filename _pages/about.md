@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include news.html %}
+
 Welcome! My name is **Michiki Taniwaki**. -> [Japanese version here](/about-ja/)
 
 I was born and raised in Osaka, Japan. I earned my Bachelor's and Master's degrees in Materials Science and Technology at Tokyo University of Science. My primary research focus lies at the intersection of multiple disciplines in physics, including machine learning (ML), topology, and condensed matter theory. You can find more details in the [Publications](/publications/) section.

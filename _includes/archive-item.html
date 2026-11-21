@@ -1,0 +1,30 @@
+{% assign item = include.item %}
+{% if item.title and item.url %}
+  <div class="list__item">
+    <article class="archive__item">
+      <h2 class="archive__item-title">
+        {% if item.link %}
+          <a href="{{ item.link }}">{{ item.title }}</a>
+          <a href="{{ item.url | relative_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="Permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ item.url | relative_url }}" rel="permalink">{{ item.title }}</a>
+        {% endif %}
+      </h2>
+
+      {% if item.collection == "talks" %}
+        <p class="page__meta">
+          {% if item.date_label %}{{ item.date_label }}{% elsif item.date %}{{ item.date | date: "%B %d, %Y" }}{% endif %}
+        </p>
+        <p class="archive__item-excerpt">{{ item.type }} at {{ item.venue }}, {{ item.location }}</p>
+      {% elsif item.collection == "teaching" %}
+        <p>{{ item.type }}, <em>{{ item.venue }}</em>, {{ item.date | date: "%Y" }}</p>
+      {% elsif item.date %}
+        <p class="page__date"><strong>Published:</strong> <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%B %d, %Y" }}</time></p>
+      {% endif %}
+
+      {% if item.excerpt %}
+        <div class="archive__item-excerpt">{{ item.excerpt | markdownify }}</div>
+      {% endif %}
+    </article>
+  </div>
+{% endif %}

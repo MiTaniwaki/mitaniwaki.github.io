@@ -1,6 +1,5 @@
 ---
 title: "Undergraduate Student Experiment (Materials Science and Technology)"
-collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2023-spring-tus-lab
 venue: "Tokyo University of Science, Faculty of Advanced Engineering, Department of Materials Science and Technology"

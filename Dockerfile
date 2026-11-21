@@ -1,10 +1,9 @@
 # Base image: Ruby with necessary dependencies for Jekyll
 FROM ruby:3.2
 
-# Install dependencies
+# Install the native build tools required by some Ruby gems.
 RUN apt-get update && apt-get install -y \
     build-essential \
-    nodejs \
     && rm -rf /var/lib/apt/lists/*
 
 # Set the working directory inside the container
